@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/anyaportal/static/css/main.621f25f0.css",
-    "main.js": "/anyaportal/static/js/main.855767d5.js",
+    "main.js": "/anyaportal/static/js/main.30a17cec.js",
     "static/media/Google map api Distance and time calculator.png": "/anyaportal/static/media/Google map api Distance and time calculator.bc029956a0694bff2754.png",
     "static/media/lulusnativekitchen.png": "/anyaportal/static/media/lulusnativekitchen.7bad1785c65b3e51d8f1.png",
     "static/media/ecommercestore.png": "/anyaportal/static/media/ecommercestore.2ba2fe95959d8150cea0.png",
@@ -10,14 +10,15 @@
     "static/media/Proactive validation form.png": "/anyaportal/static/media/Proactive validation form.7303aae87bec83b62ba3.png",
     "static/media/Firbasechatapp.png": "/anyaportal/static/media/Firbasechatapp.cf57749d8ed97a6e60dd.png",
     "static/media/oldporfolio.png": "/anyaportal/static/media/oldporfolio.6c69dade9dd37ef5c4ac.png",
+    "static/media/Weather_App_Image.png": "/anyaportal/static/media/Weather_App_Image.3eaa96674a793b9dea1e.png",
     "static/media/Simplecalculator.png": "/anyaportal/static/media/Simplecalculator.a0c8bda7c2f9e7086693.png",
     "static/media/Anya_Me.jpg": "/anyaportal/static/media/Anya_Me.a84cfce717d7cab2ed8e.jpg",
     "index.html": "/anyaportal/index.html",
     "main.621f25f0.css.map": "/anyaportal/static/css/main.621f25f0.css.map",
-    "main.855767d5.js.map": "/anyaportal/static/js/main.855767d5.js.map"
+    "main.30a17cec.js.map": "/anyaportal/static/js/main.30a17cec.js.map"
   },
   "entrypoints": [
     "static/css/main.621f25f0.css",
-    "static/js/main.855767d5.js"
+    "static/js/main.30a17cec.js"
   ]
 }
