@@ -7,46 +7,53 @@ import IMGD from '../../assests/Google map api Distance and time calculator.png'
 import IMGE from '../../assests/Proactive validation form.png'
 import IMGF from '../../assests/Simplecalculator.png'
 import IMGG from '../../assests/oldporfolio.png'
+import IMGH from '../../assests/Weather_App_Image.png'
 
 const data = [
   {
     id:1,
+    image: IMGH,
+    title: 'Weather App',
+    demo: 'https://chuxs.github.io/weather-app-anya/'
+  },
+  {
+    id:2,
     image: IMGA,
     title: 'Firebase Chat App',
     demo: 'https://chuxs.github.io/Chatting Programm JavaScript/index.html'
   },
   {
-    id:2,
+    id:3,
     image: IMGB,
     title: 'Simple Shopping Site',
     demo: 'https://chuxs.github.io/ChuxLiveStore/index.html'
   },
   {
-    id:3,
+    id:4,
     image: IMGG,
     title: 'Previous Portfolio',
     demo: 'https://chuxs.github.io/'
   },
   {
-    id:4,
+    id:5,
     image: IMGC,
     title: 'Food Ordering Service',
     demo: 'http://lulusnativekitchen.com/'
   },
   {
-    id:5,
+    id:6,
     image: IMGD,
     title: 'Google Map API Distance and Time Calculator',
     demo: 'https://chuxs.github.io/JavaScript Google Map Api Project/index.html'
   },
   {
-    id:6,
+    id:7,
     image: IMGE,
     title: 'Proactive Validation Form',
     demo: 'https://chuxs.github.io/JavaScript Form Validation/index.html'
   },
   {
-    id:7,
+    id:8,
     image: IMGF,
     title: 'Simple Calculator',
     demo: 'https://chuxs.github.io/Calculator/index.html'
