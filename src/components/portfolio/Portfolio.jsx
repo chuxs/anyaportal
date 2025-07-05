@@ -14,7 +14,7 @@ const data = [
   {
     id:1,
     image: IMGA,
-    title: 'Backgroung Remover',
+    title: 'Backgroung Remover1',
     demo: 'https://anya-background-remover.vercel.app/'
   },
   {
