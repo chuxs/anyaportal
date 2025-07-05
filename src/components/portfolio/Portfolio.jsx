@@ -1,56 +1,71 @@
 import React from 'react'
 import './portfolio.css'
-import IMGA from '../../assests/Firbasechatapp.png'
-import IMGB from '../../assests/ecommercestore.png'
-import IMGC from '../../assests/lulusnativekitchen.png'
-import IMGD from '../../assests/Google map api Distance and time calculator.png'
-import IMGE from '../../assests/Proactive validation form.png'
-import IMGF from '../../assests/Simplecalculator.png'
-import IMGG from '../../assests/oldporfolio.png'
+import IMGA from '../../assests/BackgroundRM.png'
+import IMGB from '../../assests/WebBlog.png'
+import IMGC from '../../assests/Firbasechatapp.png'
+import IMGD from '../../assests/lulusnativekitchen.png'
+import IMGE from '../../assests/ecommercestore.png'
+import IMGF from '../../assests/Google map api Distance and time calculator.png'
+import IMGG from '../../assests/Simplecalculator.png'
+import IMGH from '../../assests/oldporfolio.png'
+//import IMGE from '../../assests/Proactive validation form.png'
 
 const data = [
   {
     id:1,
     image: IMGA,
-    title: 'Firebase Chat App',
-    demo: 'https://chuxs.github.io/Chatting Programm JavaScript/index.html'
+    title: 'Backgroung Remover',
+    demo: 'https://anya-background-remover.vercel.app/'
   },
   {
     id:2,
     image: IMGB,
-    title: 'Simple Shopping Site',
-    demo: 'https://chuxs.github.io/ChuxLiveStore/index.html'
+    title: 'Blog Web Application',
+    demo: 'https://anya-blog.vercel.app/'
   },
   {
     id:3,
-    image: IMGG,
-    title: 'Previous Portfolio',
-    demo: 'https://chuxs.github.io/'
+    image: IMGC,
+    title: 'Firebase Chat App',
+    demo: 'https://chuxs.github.io/Chatting Programm JavaScript/index.html'
   },
   {
     id:4,
-    image: IMGC,
+    image: IMGD,
     title: 'Food Ordering Service',
     demo: 'http://lulusnativekitchen.com/'
   },
   {
     id:5,
-    image: IMGD,
+    image: IMGE,
+    title: 'Simple Shopping Site',
+    demo: 'https://chuxs.github.io/ChuxLiveStore/index.html'
+  },
+  {
+    id:6,
+    image: IMGF,
     title: 'Google Map API Distance and Time Calculator',
     demo: 'https://chuxs.github.io/JavaScript Google Map Api Project/index.html'
   },
   {
-    id:6,
-    image: IMGE,
-    title: 'Proactive Validation Form',
-    demo: 'https://chuxs.github.io/JavaScript Form Validation/index.html'
-  },
-  {
     id:7,
-    image: IMGF,
+    image: IMGG,
     title: 'Simple Calculator',
     demo: 'https://chuxs.github.io/Calculator/index.html'
-  }
+  },
+  {
+    id:8,
+    image: IMGH,
+    title: 'Previous Portfolio',
+    demo: 'https://chuxs.github.io/'
+  },
+
+    // {
+  //   id:6,
+  //   image: IMGE,
+  //   title: 'Proactive Validation Form',
+  //   demo: 'https://chuxs.github.io/JavaScript Form Validation/index.html'
+  // },
 
 ]
 
