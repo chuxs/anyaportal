@@ -1,0 +1,13 @@
+----push an existing repository from the command line
+git remote add origin https://github.com/chuxs/anyaportal.git
+git push -u origin main
+
+===got to the "package.json"
+
+add "homepage" before "name" ->: "https://chuxs.github.io/(name of the repository)"
+
+then inside the container "scripts", just under "start", we need to have "predeploy":"npm run build"
+"deploy":"gh-pages -d build"
+
+Go to the terminal
+npm run deploy
